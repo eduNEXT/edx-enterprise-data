@@ -25,9 +25,6 @@ drf-jwt<1.15.0
 # edx-django-utils version 3.0.0 dropped support for python 2.7, see https://github.com/edx/edx-django-utils/releases/tag/3.0.0
 edx-django-utils<3.0.0
 
-# edx-django-utils version 4.0.0 dropped support for python 2.7, see https://github.com/edx/edx-rest-api-client/releases/tag/4.0.0
-edx-rest-api-client<4.0.0
-
 # Already in python3
 futures; python_version == "2.7"
 
